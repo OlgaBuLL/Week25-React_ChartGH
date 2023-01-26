@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Week25-React_ChartGH/static/css/main.9efd796c.css",
+    "main.js": "/Week25-React_ChartGH/static/js/main.88c099ef.js",
+    "static/js/787.95011c90.chunk.js": "/Week25-React_ChartGH/static/js/787.95011c90.chunk.js",
+    "index.html": "/Week25-React_ChartGH/index.html",
+    "main.9efd796c.css.map": "/Week25-React_ChartGH/static/css/main.9efd796c.css.map",
+    "main.88c099ef.js.map": "/Week25-React_ChartGH/static/js/main.88c099ef.js.map",
+    "787.95011c90.chunk.js.map": "/Week25-React_ChartGH/static/js/787.95011c90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9efd796c.css",
+    "static/js/main.88c099ef.js"
+  ]
+}
